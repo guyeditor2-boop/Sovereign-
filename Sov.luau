@@ -1899,7 +1899,7 @@ SaveManager:SetFolder("SovereignPvPHub")
 InterfaceManager:BuildInterfaceSection(Tabs.Settings)
 Window:SelectTab(1)
 Fluent:Notify({
-    Title = "Sovereign Sovereign PvP Hub by Axiom & Luffy by Axiom & Luffy by Axiom",
+    Title = "Sovereign Aimbot by Axiom,kaizerr & luffy",
     Content = "Loaded successfully.",
     Duration = 8
 })
